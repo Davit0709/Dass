@@ -12,3 +12,6 @@ lriv hamadzyn em!
 3. podrujit lokalni i rezer
 
 pussh
+
+pullit budem
+
